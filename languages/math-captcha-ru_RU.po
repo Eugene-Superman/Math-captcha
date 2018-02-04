@@ -1,0 +1,843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bws-google-maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 17:03+0200\n"
+"PO-Revision-Date: 2018-01-29 16:23+0200\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft <plugin@bestwebsoft.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_x:1,2c;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: math-captcha.php:48
+msgid "Select math action"
+msgstr "Выберите математическое действие"
+
+#: math-captcha.php:52
+msgid "Plus"
+msgstr "Плюс"
+
+#: math-captcha.php:53
+msgid "Minus"
+msgstr "Минус"
+
+#: math-captcha.php:54
+msgid "Multiply"
+msgstr "Умножить"
+
+#: math-captcha.php:55
+msgid "Divide"
+msgstr "Разделить"
+
+#: math-captcha.php:62
+msgid "Insert captcha to:"
+msgstr "Вставить каптчу в:"
+
+#: math-captcha.php:66
+msgid "Authorization page"
+msgstr "Страницу авторизации"
+
+#: math-captcha.php:67
+msgid "Registration page"
+msgstr "Страницу регистрации"
+
+#: math-captcha.php:68
+msgid "Lost password page"
+msgstr "Страницу утерянного пароля"
+
+#: math-captcha.php:69
+msgid "Comment form"
+msgstr "Форму комментариев"
+
+#: math-captcha.php:76
+msgid "Save Changes"
+msgstr "Сохранить Изменения"
+
+#: math-captcha.php:154
+msgid "At least one math operation must be selected!"
+msgstr "Необходимо выбрать хотя бы одну математическую операцию!"
+
+#: math-captcha.php:276
+msgid "Write right number"
+msgstr "Напишите правильную цифру"
+
+#: math-captcha.php:279
+msgid "check"
+msgstr "проверить"
+
+#: math-captcha.php:303
+msgid "Sorry, your nonce did not verify."
+msgstr "Извините, ваш nonce не подтвержден."
+
+#: math-captcha.php:316
+msgid "reload captcha"
+msgstr "перезагрузить каптчу"
+
+#: math-captcha.php:334
+msgid "False"
+msgstr "Не верно"
+
+#: math-captcha.php:339
+msgid "True"
+msgstr "Верно"
+
+#: math-captcha.php:353 math-captcha.php:363 math-captcha.php:373
+#: math-captcha.php:384
+msgid "Failed!!!"
+msgstr "Ошибка!!!"
+
+#: math-captcha.php:385
+msgid "Comment Submission Failure"
+msgstr "Ошибка отправки комментария"
+
+#~ msgid "Google Maps Settings"
+#~ msgstr "Настройки Google Maps"
+
+#~ msgid "Google Maps Editor"
+#~ msgstr "Редактор Google Maps"
+
+#~ msgid "Add New"
+#~ msgstr "Добавить новую"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Settings saved."
+#~ msgstr "Настройки сохранены."
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Все настройки плагина восстановлены."
+
+#~ msgid "How to Use Step-by-step Instruction"
+#~ msgstr "Инструкция по использованию"
+
+#~ msgid "Basic"
+#~ msgstr "Базовые настройки"
+
+#~ msgid "Appearance"
+#~ msgstr "Настройки стиля"
+
+#~ msgid "Custom code"
+#~ msgstr "Пользовательский код"
+
+#~ msgid "Go PRO"
+#~ msgstr "Обновить до Pro"
+
+#~ msgid "WARNING:"
+#~ msgstr "ВНИМАНИЕ:"
+
+#~ msgid "Google Maps only works with JavaScript enabled"
+#~ msgstr "Google Maps работает только с включенным JavaScript"
+
+#~ msgid "These settings will be applied to newly added maps by default."
+#~ msgstr "Эти настройки будут применены к  добавленным картам по умолчанию."
+
+#~ msgid "In the"
+#~ msgstr "В"
+
+#~ msgid "Google Maps editor"
+#~ msgstr "редакторе Google Maps"
+
+#~ msgid "you can create a new map and in the"
+#~ msgstr "вы можете создать новую карту, а"
+
+#~ msgid "Google Maps manager"
+#~ msgstr "менеджер Google Maps"
+
+#~ msgid "you can find previously saved maps."
+#~ msgstr "покажет сохраненные ранее карты."
+
+#~ msgid "Please add the map by clicking on %s button"
+#~ msgstr "Добавьте карту, нажав на кнопку %s"
+
+#~ msgid ""
+#~ "You can add the map to your content by clicking on %s button in the "
+#~ "content edit block using the Visual mode. If the button isn't displayed, "
+#~ "please use the shortcode %s, where * stands for map ID"
+#~ msgstr ""
+#~ "Вы можете добавить карту в контент нажав на кнопку %s в блоке "
+#~ "редактирования контента в режиме Visual. Если не отображается кнопка, то "
+#~ "используйте шорткод %s, где * означает ID карты"
+
+#~ msgid "API Key"
+#~ msgstr "API Ключ"
+
+#~ msgid ""
+#~ "Using an API key enables you to monitor your application Maps API usage, "
+#~ "and ensures that Google can contact you about your application if "
+#~ "necessary. If your application Maps API usage exceeds the"
+#~ msgstr ""
+#~ "Применение ключа API позволяет отслеживать показатели использования API "
+#~ "Google Maps приложением и при необходимости дает возможность компании "
+#~ "Google связаться с вами по поводу вашего приложения. Если показатели "
+#~ "использования API Google Maps приложением превысят предусмотренные"
+
+#~ msgid "Usage Limits"
+#~ msgstr "ограничения на использование"
+
+#~ msgid ""
+#~ "you must load the Maps API using an API key in order to purchase "
+#~ "additional quota. Click"
+#~ msgstr ""
+#~ "то для заказа дополнительных квот загрузка интерфейса должна "
+#~ "производиться с использованием ключа API. Нажмите"
+
+#~ msgid "here"
+#~ msgstr "здесь"
+
+#~ msgid "to know how to get the API key"
+#~ msgstr "чтобы создать  API ключ"
+
+#~ msgid "Language"
+#~ msgstr "Язык"
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "Enter width"
+#~ msgstr "Введите ширину"
+
+#~ msgid "px"
+#~ msgstr "пикс"
+
+#~ msgid "Height"
+#~ msgstr "Высота"
+
+#~ msgid "Enter height"
+#~ msgstr "Введите высоту"
+
+#~ msgid "Alignment"
+#~ msgstr "Выравнивание"
+
+#~ msgid "Left"
+#~ msgstr "По левому краю"
+
+#~ msgid "Center"
+#~ msgstr "По центру"
+
+#~ msgid "Right"
+#~ msgstr "По правому краю"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Roadmap"
+#~ msgstr "Дорожный"
+
+#~ msgid "Terrain"
+#~ msgstr "Рельефный"
+
+#~ msgid "Satellite"
+#~ msgstr "Спутниковый"
+
+#~ msgid "Hybrid"
+#~ msgstr "Гибридный"
+
+#~ msgid "View"
+#~ msgstr "Вид"
+
+#~ msgid ""
+#~ "This option is only available for Satellite and Hybrid map types (if such "
+#~ "snapshots are available)."
+#~ msgstr ""
+#~ "Эта опция доступна только для Спутникового и Гибридного типов карт (если "
+#~ "такие снимки имеются)."
+
+#~ msgid "Zoom"
+#~ msgstr "Масштаб"
+
+#~ msgid "Controls options"
+#~ msgstr "Настройки элементов управления"
+
+#~ msgid "Visibility and map action controls."
+#~ msgstr "Видимость и действия элементов управления карты."
+
+#~ msgid "Rotate"
+#~ msgstr "Вращение"
+
+#~ msgid "This option is only available if View 45° option is checked"
+#~ msgstr "Эта опция доступна только если включена опция \"Вид 45°\""
+
+#~ msgid "Scale"
+#~ msgstr "Шкала"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Auto"
+#~ msgstr "Авто"
+
+#~ msgid "The map will be scaled to display all markers."
+#~ msgstr "Карта будет масштабироваться для отображения всех маркеров."
+
+#~ msgid "Street View"
+#~ msgstr "Просмотр улиц"
+
+#~ msgid "Draggable"
+#~ msgstr "Перемещение мышью"
+
+#~ msgid "Double Click"
+#~ msgstr "Двойной клик"
+
+#~ msgid "Scroll Wheel"
+#~ msgstr "Колесо мыши"
+
+#~ msgid "Learn More"
+#~ msgstr "Подробнее"
+
+#~ msgid "Save Settings"
+#~ msgstr "Сохранить настройки"
+
+#~ msgid ""
+#~ "Install required styles in order to apply them to certain maps on Google "
+#~ "Maps Editor page"
+#~ msgstr ""
+#~ "Установите требуемые стили, чтобы использовать их на странице редактора "
+#~ "Google Maps"
+
+#~ msgid "Snazzymaps API Key"
+#~ msgstr "API ключ Snazzymaps"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid ""
+#~ "You can use your own API key which allows using favorite styles from your "
+#~ "Snazzymaps account"
+#~ msgstr ""
+#~ "Вы можете использовать собственный API ключ, чтобы применять избранные "
+#~ "стили вашего аккаунта в Snazzymaps"
+
+#~ msgid "Personal API key"
+#~ msgstr "Ваш персональный API ключ"
+
+#~ msgid "is available after"
+#~ msgstr "будет доступен для использования после"
+
+#~ msgid "registration"
+#~ msgstr "регистрации"
+
+#~ msgctxt "view all styles"
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgctxt "view all installed styles"
+#~ msgid "Installed"
+#~ msgstr "Установленные"
+
+#~ msgid "Favorites"
+#~ msgstr "Избранные"
+
+#~ msgid "Filter by color"
+#~ msgstr "Выбор по цвету"
+
+#~ msgid "Filter by Tag"
+#~ msgstr "Выбор по тегам"
+
+#~ msgid "Search..."
+#~ msgstr "Искать..."
+
+#~ msgid "Sort by"
+#~ msgstr "Сортировать по"
+
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "items"
+#~ msgstr "элементов"
+
+#~ msgid "Page"
+#~ msgstr "Страница"
+
+#~ msgid "of"
+#~ msgstr "из"
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Set as default"
+#~ msgstr "Установить по умолчанию"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Install"
+#~ msgstr "Установить"
+
+#~ msgctxt "style is installed"
+#~ msgid "Already Installed"
+#~ msgstr "Установлено"
+
+#~ msgid "Installed"
+#~ msgstr "Установлена"
+
+#~ msgid "Google Maps"
+#~ msgstr "Google Maps"
+
+#~ msgid "map"
+#~ msgstr "карта"
+
+#~ msgid "maps"
+#~ msgstr "карты"
+
+#~ msgid "Title"
+#~ msgstr "Название"
+
+#~ msgid "Shortcode"
+#~ msgstr "Шорткод"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Edit"
+#~ msgstr "Изменить"
+
+#~ msgid "Maps not found."
+#~ msgstr "Карты не найдены."
+
+#~ msgid "Save Map"
+#~ msgstr "Сохранить Карту"
+
+#~ msgid "Update Map"
+#~ msgstr "Обновить Карту"
+
+#~ msgid "No title"
+#~ msgstr "Без названия"
+
+#~ msgid "Map with"
+#~ msgstr "Карта с"
+
+#~ msgid "not found. You can return to the"
+#~ msgstr "не найдена. Вы можете вернуться в"
+
+#~ msgid "or create new map in the"
+#~ msgstr "или создать новую карту в"
+
+#~ msgid "Notice:"
+#~ msgstr "Внимание:"
+
+#~ msgid "In order to create a new map, you must enter the API key on the"
+#~ msgstr "Чтобы создать новую карту, вы должны ввести ключ API в"
+
+#~ msgid "Google Maps settings page"
+#~ msgstr "настройках Google Maps"
+
+#~ msgid "Map has been updated."
+#~ msgstr "Карта была обновлена."
+
+#~ msgid "To insert this map use %s button"
+#~ msgstr "Для вставки этой карты используйте кнопку %s"
+
+#~ msgid ""
+#~ "You can add the map to your content by clicking on %s button in the "
+#~ "content edit block using the Visual mode. If the button isn't displayed, "
+#~ "please use the shortcode %s"
+#~ msgstr ""
+#~ "Вы можете добавить карту в контент нажав на кнопку %s в блоке "
+#~ "редактирования контента в режиме Visual. Если не отображается кнопка, то "
+#~ "используйте шорткод %s"
+
+#~ msgid "Map Title"
+#~ msgstr "Название карты"
+
+#~ msgid "Enter title"
+#~ msgstr "Введите название"
+
+#~ msgid "Marker Location"
+#~ msgstr "Местоположение маркера"
+
+#~ msgid "Enter location or coordinates"
+#~ msgstr "Введите местоположение или координаты"
+
+#~ msgid ""
+#~ "You should enter coordinates in decimal degrees with no spaces. Example "
+#~ "coordinates:"
+#~ msgstr ""
+#~ "Координаты должны быть введены в десятичных градусах без пробелов. Пример "
+#~ "координат:"
+
+#~ msgid "Marker Tooltip"
+#~ msgstr "Подсказка маркера"
+
+#~ msgid "Enter tooltip"
+#~ msgstr "Введите подсказку"
+
+#~ msgid "You can use HTML tags and attributes."
+#~ msgstr "Вы можете использовать HTML теги и атрибуты."
+
+#~ msgid "Add marker to list"
+#~ msgstr "Добавить маркер в список"
+
+#~ msgid "Update marker"
+#~ msgstr "Обновить маркер"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid "Markers List"
+#~ msgstr "Список маркеров"
+
+#~ msgid "No markers"
+#~ msgstr "Нет маркеров"
+
+#~ msgid "Style"
+#~ msgstr "Стиль"
+
+#~ msgid ""
+#~ "This option is only available for Roadmap, Terrain, and Hybrid map types."
+#~ msgstr ""
+#~ "Эта опция доступна только для Дорожного, Рельефного и Гибридного типов "
+#~ "карт."
+
+#~ msgid "Map(s)"
+#~ msgstr "Карт(а)"
+
+#~ msgid "Get coordinates"
+#~ msgstr "Получить координаты"
+
+#~ msgid "You have not specified map ID"
+#~ msgstr "Вы не указали ID карты"
+
+#~ msgid "Please, enable JavaScript!"
+#~ msgstr "Пожалуйста, включите JavaScript!"
+
+#~ msgid "HELP"
+#~ msgstr "ПОМОЩЬ"
+
+#~ msgid "not found"
+#~ msgstr "не найдена"
+
+#~ msgid "Google Map"
+#~ msgstr "Google Map"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Support"
+#~ msgstr "Поддержка"
+
+#~ msgid "Notice: "
+#~ msgstr "Внимание: "
+
+#~ msgid ""
+#~ "you must load the Maps API using an API key in order to purchase "
+#~ "additional quota.Click"
+#~ msgstr ""
+#~ "то для заказа дополнительных квот загрузка интерфейса должна "
+#~ "производиться с использованием ключа API.Нажмите"
+
+#~ msgid "Google Maps settings page."
+#~ msgstr "настройках Google Maps."
+
+#~ msgid "to know how to get the API keys"
+#~ msgstr "чтобы создать API ключ"
+
+#~ msgid "here "
+#~ msgstr "здесь"
+
+#~ msgid ""
+#~ "you must load the Maps API using an API key in order to purchase "
+#~ "additional quota. Click here to know how to get the API keys."
+#~ msgstr ""
+#~ "то для заказа дополнительных квот загрузка интерфейса должна "
+#~ "производиться с использованием ключа API. Нажмите здесь чтобы создать API "
+#~ "ключ."
+
+# Visibility and map action controls.
+#, fuzzy
+#~ msgid "Visibility and actions controls of the map."
+#~ msgstr "Видимость и действия элементов управления карты."
+
+#, fuzzy
+#~ msgid ""
+#~ "This option is only available for the types of map Satellite and Hybrid "
+#~ "(if such snapshots are available)."
+#~ msgstr ""
+#~ "Эта опция доступна только для Спутникового и Гибридного типа карт (если "
+#~ "такие снимки имеются)."
+
+# settings page
+# в англ ещё и лишний пробел в конце
+#, fuzzy
+#~ msgid "Google Maps settings. "
+#~ msgstr "настройках Google Maps."
+
+#, fuzzy
+#~ msgid "not found! You can return to the"
+#~ msgstr "не найдена! Вы можете вернуться в"
+
+#~ msgid ""
+#~ "you must load the Maps API using an API key in order to purchase "
+#~ "additional quota. Click here to know how to get the API keys"
+#~ msgstr ""
+#~ "то для заказа дополнительных квот загрузка интерфейса должна "
+#~ "производиться с использованием ключа API. Нажмите здесь чтобы создать API "
+#~ "ключ"
+
+# These settings will be applied to newly added maps by default
+# Эти настройки будут использоваться по умолчанию для вновь добавленных карт - так вроде пишем
+#~ msgid "These settings are used as default when you create a new map."
+#~ msgstr ""
+#~ "Эти настройки будут использоваться по умолчанию при создании новой карты."
+
+# you can find maps that have been previously saved. ==> you can find previously saved maps.
+#, fuzzy
+#~ msgid "you can find maps that have been previously saved."
+#~ msgstr "покажет сохраненные ранее карты."
+
+# Click here to know how to get the API keys.
+# Нажмите здесь чтобы создать API ключ.
+#, fuzzy
+#~ msgid ""
+#~ "you must load the Maps API using an API key in order to purchase "
+#~ "additional quota. How to create a API key you can find"
+#~ msgstr ""
+#~ "то для заказа дополнительных квот загрузка интерфейса должна "
+#~ "производиться с использованием ключа API. Как создать API ключ вы можете "
+#~ "найти"
+
+# from  your - лишний пробел
+# ---
+# Вы можете использовать собственный API ключ, чтобы применять избранные стили вашего аккаунта в Snazzymaps
+#, fuzzy
+#~ msgid ""
+#~ "You can use your own API key which allows using favorite styles from  "
+#~ "your Snazzymaps account"
+#~ msgstr ""
+#~ "Вы можете использовать собственный API ключ, чтобы использовать избранные "
+#~ "стили Вашего аккаунта Snazzymaps"
+
+# on the а не in the
+# в англ ещё и лишний пробел в конце
+#, fuzzy
+#~ msgid "In order to create a new map, you must enter the API key in the "
+#~ msgstr "Чтобы создать новую карту, вы должны ввести ключ API в"
+
+# This option is only available for Roadmap, Terrain, and Hybrid map types.
+#, fuzzy
+#~ msgid ""
+#~ "This option is only available for the types of map Roadmap, Terrain and "
+#~ "Hybrid."
+#~ msgstr ""
+#~ "Эта опция доступна только для дорожного, рельефного и гибридного типов "
+#~ "карт."
+
+#~ msgid "Google Maps Settings. "
+#~ msgstr "Настройках Google Maps."
+
+#~ msgid "In order to create a new map, you must enter the API key on the "
+#~ msgstr "Чтобы создать новую карту, вы должны ввести ключ API на "
+
+#~ msgid "plugin Settings page"
+#~ msgstr "Странице настроек плагина"
+
+#~ msgid ""
+#~ "In order to create a new map, you must enter the API key on the plugin "
+#~ "Settings page"
+#~ msgstr "Чтобы создать новую карту, вы должны ввести ключ API на"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr "При установке Pro версии плагина, все ваши настройки сохраняются."
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Активируйте премиум опции обновившись до Pro версии"
+
+# @ gglmps
+#~ msgid "Height (px)"
+#~ msgstr "Высота (пикс)"
+
+# @ gglmps
+#~ msgid "Find"
+#~ msgstr "Найти"
+
+# @ gglmps
+#~ msgid "Pan"
+#~ msgstr "Перемещение"
+
+# @ gglmps
+#~ msgid "Overview Map"
+#~ msgstr "Обзорная Карта"
+
+# @ gglmps
+#~ msgid "Overview Map Opened"
+#~ msgstr "Обзорная Карта Открыта"
+
+# @ gglmps
+#~ msgid ""
+#~ "The plugin's settings have been changed. Please, don't forget to click "
+#~ "the 'Save Settings' button."
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Пожалуйста, не забудьте нажать кнопку "
+#~ "'Сохранить Настройки'."
+
+# @ gglmps
+#~ msgid ""
+#~ "If you want to insert the map in any place on the site, please use the "
+#~ "shortcode"
+#~ msgstr "Для вставки карт в любом месте используйте шорткод"
+
+# @ gglmps
+#~ msgid "where * stands for map ID."
+#~ msgstr "где * это ID карты."
+
+#~ msgid "Go"
+#~ msgstr "Перейти на"
+
+# @ gglmps
+#~ msgid "Editor"
+#~ msgstr "Редактор"
+
+# @ gglmps
+#~ msgid "BestWebSoft Google Maps"
+#~ msgstr "BestWebSoft Google Maps"
+
+# @ gglmps
+#~ msgid "requires"
+#~ msgstr "требуется"
+
+# @ gglmps
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, вот почему плагин был деактивирован! Пожалуйста, обновите "
+#~ "WordPress и попробуйте снова."
+
+# @ gglmps
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вернутся на страницу WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "Страницу плагинов"
+
+#~ msgid "Wrong license key"
+#~ msgstr "Неправильный лицензионный ключ"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later. If the error will appear again, "
+#~ "please, contact us <a href=https://support.bestwebsoft.com>BestWebSoft</"
+#~ "a>. We are sorry for inconvenience."
+#~ msgstr ""
+#~ "Что-то пошло не так. Повторите попытку позже. Если ошибка появится снова, "
+#~ "пожалуйста, свяжитесь с нами <a href=http://support.bestwebsoft."
+#~ "com>BestWebSoft</a>. Приносим извинения за неудобства."
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Этот лицензионный ключ привязан к другому сайту"
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "К сожалению, вы превысили количество доступных попыток в день. "
+#~ "Пожалуйста, загрузите плагин вручную."
+
+#~ msgid "Failed to open the zip archive. Please, upload the plugin manually"
+#~ msgstr "е удалось открыть архив ZIP. Пожалуйста, загрузите плагин вручную"
+
+#~ msgid ""
+#~ "Your server does not support either ZipArchive or Phar. Please, upload "
+#~ "the plugin manually"
+#~ msgstr ""
+#~ "Ваш сервер не поддерживает ни библиотеку ZipArchive, ни библиотеку Phar. "
+#~ "Пожалуйста, загрузите плагин вручную"
+
+#~ msgid ""
+#~ "Failed to download the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Не удалось загрузить архив плагина. Пожалуйста, загрузите плагин вручную"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvenience."
+#~ msgstr ""
+#~ "Что-то пошло не так. Повторите попытку позже. Если ошибка появится снова, "
+#~ "пожалуйста, свяжитесь с нами <a href=http://support.bestwebsoft."
+#~ "com>BestWebSoft</a>. Приносим извинения за неудобства."
+
+#~ msgid "Please, enter Your license key"
+#~ msgstr "Пожалуйста, введите Ваш лицензионный ключ"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr "Если вам понравился плагин то поставте нам 5 звезд на WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оценить плагин"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Если у вас есть какие-то вопросы, обращайтесь"
+
+#~ msgid ""
+#~ "Congratulations! The PRO version of the plugin is successfully download "
+#~ "and activated."
+#~ msgstr ""
+#~ "Поздравляем! PRO версия плагина была успешно загружена и активирована."
+
+#~ msgid "Please, go to"
+#~ msgstr "Пожалуйста, перейдите на"
+
+#~ msgid "the setting page"
+#~ msgstr "страницу настроек"
+
+#~ msgid "You will be redirected automatically in 5 seconds."
+#~ msgstr "Вы будете перенаправлены автоматически через 5 секунд."
+
+#~ msgid "You can download and activate"
+#~ msgstr "Вы можете скачать и активировать"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "версию этого плагина, введя ваш лицензионный ключ."
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr ""
+#~ "Вы можете найти ваш лицензионный ключ на вашей личной странице Client "
+#~ "area, нажав на ссылку"
+
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product)."
+#~ msgstr ""
+#~ "(ваше имя пользователя - это электронный адрес, указанный при покупке "
+#~ "продукта)."
+
+#~ msgid "Go!"
+#~ msgstr "Перейти!"
+
+#~ msgid ""
+#~ "It's time to upgrade your <strong>BestWebSoft Google Maps plugin</strong> "
+#~ "to <strong>PRO</strong> version"
+#~ msgstr ""
+#~ "Пора обновить ваш <strong>плагин BestWebSoft Google Maps</strong> до "
+#~ "<strong>PRO</strong> версии"
+
+#~ msgid "Extend standard plugin functionality with new great options"
+#~ msgstr "Расширение стандартного функционала плагина новыми опциями"
+
+# @ gglmps
+#, fuzzy
+#~ msgid "Update"
+#~ msgstr "Обновить Карту"
+
+# @ gglmps
+#, fuzzy
+#~ msgid "Environment"
+#~ msgstr "Выравнивание"
+
+# @ gglmps
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Поддержка"

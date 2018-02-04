@@ -1,0 +1,15 @@
+/*
+* Plugin styles
+*/
+.mthcptch_block {
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+.mthcptch_input_data {
+	width: 16% !important;
+	padding:5px !important;
+}
+
+.form-table th {
+	text-transform: capitalize;
+}
